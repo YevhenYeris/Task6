@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//ЗАВДАННЯ 3
+
 namespace AbstractFactory
 {
     public class AbstractFactory
