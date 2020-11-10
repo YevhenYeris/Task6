@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections;
+
+//ЗАВДАННЯ 3
+
 namespace Mediator.Examples
 {
     // Mainapp test application
