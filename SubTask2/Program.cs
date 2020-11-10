@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//ЗАВДАННЯ 4
+//ЗАВДАННЯ 2
 
 namespace Builder
 {
